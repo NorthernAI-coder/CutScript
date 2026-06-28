@@ -1,3 +1,7 @@
+> [!NOTE]
+> NorthernAI fork note (2026-06-28): This fork tracks upstream $(System.Collections.Hashtable.upstream) for $(System.Collections.Hashtable.product). Upstream license and attribution remain intact. NorthernAI commercialization layers should use a free local/base tier plus paid hosted/team workflows around NorthernAI-owned integration code.
+>
+> Upstream: https://github.com/DataAnts-AI/CutScript
 # CutScript
 
 An open-source, local-first, Descript-like text-based audio and video editor powered by AI. Edit audio/video by editing text — delete a word from the transcript and it's cut from the audio/video.
